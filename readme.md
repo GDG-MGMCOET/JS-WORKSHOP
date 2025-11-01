@@ -1,5 +1,7 @@
 # 🌟 JavaScript Workshop Repository
 
+## Credits: Rishi Kumar: https://github.com/rishi-09/js-workshop
+
 > **Learn JavaScript step by step — through examples, mini projects, and clear explanations.**  
 > This repository is designed for **beginners** who want to understand not just _how_ to code in JavaScript, but _why things work the way they do._
 

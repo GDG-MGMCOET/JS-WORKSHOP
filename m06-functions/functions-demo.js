@@ -8,6 +8,7 @@ function add(a, b = 0) {
   return a + b;
 }
 
+
 // Function expression
 const multiply = function (a, b) {
   return a * b;

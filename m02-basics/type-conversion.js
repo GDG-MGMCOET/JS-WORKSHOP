@@ -2,7 +2,6 @@
   module-02-basics/type-conversion.js
   Purpose: Demonstrate explicit and implicit conversions.
 */
-
 console.log("Type conversion examples:");
 
 

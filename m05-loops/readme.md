@@ -6,7 +6,7 @@
 
 ## for Loop
 
-- Repeats code a set number of times.
+- Repeats code a fixed number of times.
 
 ## while Loop
 

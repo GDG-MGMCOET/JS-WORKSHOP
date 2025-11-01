@@ -5,7 +5,7 @@
 - **`if`, `else if`, `else`:** Run different code based on conditions.
 - **Nested if-else:** Put if-else statements inside each other for multiple checks.
 
-## switch Statement
+## Switch Statement
 
 - Alternative to many if-elses when checking the same variable/expression.
 

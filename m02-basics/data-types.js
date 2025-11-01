@@ -3,7 +3,6 @@
   Purpose: Explore primitive & non-primitive types, typeof quirks.
 */
 
-
 // Primitive data types
 let myString = "Hello!";
 let myNumber = 10;

@@ -1,5 +1,6 @@
 let student = { name: "IronMan", grade: "A", passed: true };
 
+
 // for...in for objects
 for(let key in student) {
   console.log(key, ":", student[key]);

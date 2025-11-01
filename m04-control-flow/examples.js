@@ -7,6 +7,7 @@ if (temp > 30) {
   console.log("It's a hot day!");
 }
 
+
 let age = 17;
 if (age >= 18) {
   console.log("You can vote.");

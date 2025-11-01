@@ -8,5 +8,6 @@ function getGrade(marks) {
   return "F";
 }
 
+
 let studentMarks = 82;
 console.log(`Grade: ${getGrade(studentMarks)}`);

@@ -20,44 +20,43 @@ While HTML gives structure and CSS gives style, **JavaScript adds life** to a we
 
 ---
 
-
 ## ⚙️ Features of JavaScript
 
-| Feature | Description |
-|----------|-------------|
-| **Interpreted** | Code is executed line by line by the JS engine. |
-| **Lightweight** | Doesn’t require compilation or heavy setup. |
-| **Dynamic** | Variables and types can change at runtime. |
-| **Event-driven** | Reacts to user actions like clicks and keypresses. |
-| **Cross-platform** | Runs on any OS or browser. |
+| Feature            | Description                                        |
+| ------------------ | -------------------------------------------------- |
+| **Interpreted**    | Code is executed line by line by the JS engine.    |
+| **Lightweight**    | Doesn’t require compilation or heavy setup.        |
+| **Dynamic**        | Variables and types can change at runtime.         |
+| **Event-driven**   | Reacts to user actions like clicks and keypresses. |
+| **Cross-platform** | Runs on any OS or browser.                         |
 
 ---
 
-
-
 ## 🧩 Why JavaScript?
-- The **language of the web** — used for front-end, back-end, mobile apps, and even IoT.  
-- Runs **everywhere** — inside browsers, on servers (Node.js), and more.  
+
+- The **language of the web** — used for front-end, back-end, mobile apps, and even IoT.
+- Runs **everywhere** — inside browsers, on servers (Node.js), and more.
 - Known for being **interpreted, dynamic, and event-driven**.
 
 ---
 
 ## 🧰 Tools to Install
-| Purpose | Tool |
-|----------|------|
-| Writing code | **VS Code** (with Live Server extension) |
-| Running in browser | Any modern browser (Chrome, Edge, Firefox) |
-| Running in terminal | **Node.js** |
----
 
+| Purpose             | Tool                                       |
+| ------------------- | ------------------------------------------ |
+| Writing code        | **VS Code** (with Live Server extension)   |
+| Running in browser  | Any modern browser (Chrome, Edge, Firefox) |
+| Running in terminal | **Node.js**                                |
+
+---
 
 ## 🧩 History of JavaScript
 
-| Year | Event |
-|------|--------|
-| **1995** | JavaScript was created by *Brendan Eich* at Netscape in just 10 days. |
-| **1996** | Microsoft introduced JScript for Internet Explorer. |
-| **1997** | ECMAScript standard was introduced to unify JavaScript versions. |
+| Year     | Event                                                                                        |
+| -------- | -------------------------------------------------------------------------------------------- |
+| **1995** | JavaScript was created by _Brendan Eich_ at Netscape in just 10 days.                        |
+| **1996** | Microsoft introduced JScript for Internet Explorer.                                          |
+| **1997** | ECMAScript standard was introduced to unify JavaScript versions.                             |
 | **2015** | **ES6 (ECMAScript 2015)** introduced modern features — `let`, `const`, arrow functions, etc. |
 
 Now JavaScript runs everywhere — browsers, servers, mobile apps, even robots!
@@ -69,11 +68,12 @@ Now JavaScript runs everywhere — browsers, servers, mobile apps, even robots!
 JavaScript can run in two major environments:
 
 1. **Browser Environment**
+
    - Built-in JavaScript engines in browsers execute JS code.
    - Example engines:
-     - Chrome → V8  
-     - Firefox → SpiderMonkey  
-     - Safari → JavaScriptCore  
+     - Chrome → V8
+     - Firefox → SpiderMonkey
+     - Safari → JavaScriptCore
    - You can write JS directly inside `<script>` tags in an HTML file.
 
 2. **Node.js Environment**
@@ -83,8 +83,9 @@ JavaScript can run in two major environments:
 ---
 
 ## 🪄 How JavaScript Runs
-- In a **browser**, the JS engine (like V8 in Chrome) reads and executes your script line by line.  
-- In **Node.js**, the same engine runs JS outside the browser to build servers and tools.  
+
+- In a **browser**, the JS engine (like V8 in Chrome) reads and executes your script line by line.
+- In **Node.js**, the same engine runs JS outside the browser to build servers and tools.
 - JavaScript is **single-threaded** but can handle multiple tasks asynchronously (using callbacks, promises, etc.).
 
 ---
@@ -94,21 +95,24 @@ JavaScript can run in two major environments:
 You can write and run JS in two ways:
 
 ### 1️⃣ Using the Browser Console
+
 - Open any browser (like Chrome).
 - Press `Ctrl + Shift + J` (or `Cmd + Option + J` on Mac) → Console tab.
 - Type:
   ```js
   console.log("Hello, JavaScript!");
-
+  ```
 
 ---
 
 ## 🧾 Exercises
-1. Print “Hello, World” in console and on the webpage.  
-2. Run the same code in Node.js using `node hello-world.js`.  
-3. Try changing the position of the `<script>` tag (top vs bottom) and watch the console output order.  
+
+1. Print “Hello, World” in console and on the webpage.
+2. Run the same code in Node.js using `node hello-world.js`.
+3. Try changing the position of the `<script>` tag (top vs bottom) and watch the console output order.
 
 ---
 
 ## 🧭 Next Up
+
 Module 2 — **Basics of JavaScript:** variables, data types, and naming conventions.

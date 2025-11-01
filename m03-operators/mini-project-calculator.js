@@ -10,3 +10,4 @@ function calculate(a, b, operator) {
 
 console.log(calculate(10, 5, "+")); // 15
 console.log(calculate(10, 0, "/")); // Error: divide by zero
+

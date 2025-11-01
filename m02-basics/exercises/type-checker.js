@@ -3,7 +3,6 @@
   Purpose: Tiny utility to show typeof and extra checks.
 */
 
-
 function checkType(value) {
   return typeof value;
 }

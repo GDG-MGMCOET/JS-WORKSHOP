@@ -2,7 +2,7 @@
 
 ## Arithmetic Operators
 
-- `+` (Addition), `-` (Subtraction), `*` (Multiplication), `/` (Division), `%` (Remainder), `**` (Exponent)
+- `+` (Addition), `-` (Subtraction), `*` (Multiplication), `/` (Division), `%` (Remainder), `**` (Exponent).
 
 ## Assignment Operators
 

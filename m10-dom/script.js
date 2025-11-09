@@ -10,6 +10,8 @@ addBtn.addEventListener("click", () => {
 });
 
 subBtn.addEventListener("click", () => {
-  amount--;
+  if( amount){
+      amount--;
+  }
   amountDisplay.textContent = `Total amount = ${amount}`;
 });
